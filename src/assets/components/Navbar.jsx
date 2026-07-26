@@ -73,7 +73,7 @@ function Navbar(){
             </ul>
 
             <a
-            href="src\assets\doc\CV_SASKIA LAVINSKY.pdf"
+            href="/documents/CV_SASKIA AVINSKY.pdf"
             target="_blank"
             className="
             hidden min-[900px]:block
@@ -149,7 +149,7 @@ function Navbar(){
 
             <li>
             <a 
-            href="src\assets\doc\CV_SASKIA LAVINSKY.pdf"
+            href="/documents/CV_SASKIALAVINSKY.pdf"
             target="_blank"
             className="
             block
