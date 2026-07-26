@@ -110,7 +110,7 @@ function Education() {
                                 3.78 / 4.00
                             </p>
                         </div>
-                        <a href="src\assets\doc\TranskripEng_535220176 (1).pdf"
+                        <a href="/documents/TranskripEng_535220176.pdf"
                             target="_blank"
                             className=" inline-block mt-8 px-6 py-3 rounded-full bg-teal-700 text-white font-semibold hover:bg-teal-600 transition ">
                             View Transcript
