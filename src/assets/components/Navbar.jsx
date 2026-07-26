@@ -73,7 +73,7 @@ function Navbar(){
             </ul>
 
             <a
-            href="/documents/CV_SASKIA AVINSKY.pdf"
+            href="/documents/CV_SASKIALAVINSKY.pdf"
             target="_blank"
             className="
             hidden min-[900px]:block
