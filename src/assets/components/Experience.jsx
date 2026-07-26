@@ -36,7 +36,7 @@ function WorkExperience() {
     ],
 
     certificate:
-    "src/assets/doc/signed-202639-SERTIFIKAT MAGANG SASKIA LAVINSKY.pdf"
+    "/documents/signed-202639-SERTIFIKAT_MAGANG_SASKIA_LAVINSKY.pdf"
 
     },
 
@@ -98,7 +98,7 @@ function WorkExperience() {
     ],
 
     certificate:
-    "src/assets/doc/asdos.pdf"
+    "/documents/asdos.pdf"
 
     },
 
